@@ -12,4 +12,5 @@ public class KATA3 {
        histo.execute();
     }
     
+    
 }

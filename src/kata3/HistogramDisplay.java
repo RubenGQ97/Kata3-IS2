@@ -53,4 +53,5 @@ public class HistogramDisplay extends ApplicationFrame {
     }
     
     
+    
   }
